@@ -1,1 +1,2 @@
 This is example file.
+This line is added from remote repo
